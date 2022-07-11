@@ -1,0 +1,27 @@
+Buenos dia
+Realice 2 script: 
+
+Uno para encontrar el precio y el nombre de un producto de la pagina Guatemala Digital
+
+Y el otro para extraer informacion de una pagina web mediante las clases de su elemento
+
+¿Como usar el programa de "EXAMEN"?
+
+1-En la caja de texto de color azul ingrese el codigo
+2-Presione el boton de buscar
+
+
+¿Como usar el programa de Web Scripting?
+
+1-Ingrese en el campo URL , el enlace de la pagina del cual quiere obtener la informacion
+
+2- Escriba la CLASE de los elementos que contienen la informacion que necesita
+
+3- (Opcional) Escriba el tipo de etiqueta para filtrar la busqueda
+
+4- Escriba la cantidad de elementos de los que se extraera la informacion 
+(Si ingresa -1 se extraera de todos los elementos)
+
+5- Presione el boton de "Extraer Informacion"  
+
+6- La informacion extraida se mostrara en la caja de texto de abajo

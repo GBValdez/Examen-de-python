@@ -44,7 +44,7 @@ def Buscar_precio():
 ventana= tkinter.Tk()
 ventana.geometry("600x600")
 ventana.title("Guatemala Digital")
-etiqueta=tkinter.Label(ventana,text="Bienvenido",bg="#ff9f1a", font="arial 50", fg="white")
+etiqueta=tkinter.Label(ventana,text="Guatemala Digital",bg="#ff9f1a", font="arial 50", fg="white")
 etiqueta.pack(fill= tkinter.X)
 Codigo= tkinter.Entry(ventana,font="arial 20",bg="#0078bb",fg="white")
 Codigo.pack()
@@ -57,7 +57,6 @@ Producto= tkinter.Label(ventana, font="arial 18", width="400", wraplength="500",
 Producto.pack()
 Resultado= tkinter.Label(ventana, font="arial 12")
 Resultado.pack()
-
 ventana.mainloop()
 
 
